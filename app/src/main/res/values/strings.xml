@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">JobNet</string>
+    <string name="navigation_drawer_open">Abrir menú</string>
+    <string name="navigation_drawer_close">Cerrar menú</string>
+    <string name="nav_header_title">Temp</string>
+    <string name="nav_header_subtitle">contacto@jobnet.net</string>
+    <string name="nav_header_desc">Header</string>
+    <string name="action_settings">Configuración</string>
+
+    <string name="menu_home">Inicio</string>
+    <string name="menu_gallery">Servicios</string>
+    <string name="menu_slideshow">Login</string>
+</resources>
