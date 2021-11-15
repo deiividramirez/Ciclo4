@@ -10,4 +10,14 @@
     <string name="menu_home">Inicio</string>
     <string name="menu_gallery">Servicios</string>
     <string name="menu_slideshow">Login</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="et_email">E-mail</string>
+    <string name="et_password">Contraseña</string>
+    <string name="action_sign_in">Ingresa o registrate</string>
+    <string name="action_sign_in_short">Ingresar</string>
+    <string name="welcome">"¡Bienvenido!"</string>
+    <string name="invalid_username">Nombre de usuario inválido</string>
+    <string name="invalid_password">La constraseña debe tener más de 5 caracteres</string>
+    <string name="login_failed">"El ingreso falló"</string>
+    <string name="aqu_va_el_logo">Aquí va el logo</string>
 </resources>
