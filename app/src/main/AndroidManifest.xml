@@ -10,6 +10,11 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.JobNet">
         <activity
+            android:name=".pqr"
+            android:exported="false"
+            android:label="@string/title_activity_pqr"
+            android:theme="@style/Theme.JobNet.NoActionBar" />
+        <activity
             android:name=".ui.login.LoginActivity"
             android:exported="false"
             android:label="@string/title_activity_login" />
