@@ -6,19 +6,166 @@
     android:layout_height="match_parent"
     tools:context=".ui.home.HomeFragment">
 
-    <TextView
-        android:id="@+id/text_home"
+
+    <LinearLayout
+        android:id="@+id/linearLayout"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:layout_marginStart="8dp"
-        android:layout_marginTop="8dp"
-        android:layout_marginEnd="8dp"
-        android:textAlignment="center"
-        android:textSize="20sp"
+        android:layout_height="92dp"
+        android:orientation="vertical"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.003">
+
+        <TextView
+            android:id="@+id/textView3"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@color/design_default_color_secondary"
+            android:paddingStart="30dp"
+            android:paddingTop="20dp"
+            android:paddingEnd="5dp"
+            android:text="JobNet"
+            android:textAlignment="viewEnd"
+            android:textSize="34sp" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/linearLayout2"
+        android:layout_width="match_parent"
+        android:layout_height="300dp"
+        android:background="@color/cardview_light_background"
+        android:orientation="vertical"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/linearLayout"
+        app:layout_constraintVertical_bias="0.0">
+
+        <TextView
+            android:id="@+id/textView4"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:paddingTop="120dp"
+            android:text="Carrusel"
+            android:textAlignment="center"
+            android:textSize="34sp" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/linearLayout4"
+        android:layout_width="413dp"
+        android:layout_height="100dp"
+        android:orientation="horizontal"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
+        app:layout_constraintTop_toBottomOf="@+id/linearLayout2"
+        app:layout_constraintVertical_bias="0.0">
+
+        <ImageButton
+            android:id="@+id/imageButton9"
+            android:layout_width="350dp"
+            android:layout_height="85dp"
+            android:layout_weight="1"
+            android:paddingStart="5dp"
+            android:paddingTop="5dp"
+            android:paddingEnd="5dp"
+            android:paddingBottom="5dp"
+            android:src="@drawable/a1"
+
+            />
+
+        <ImageButton
+            android:id="@+id/imageButton10"
+            android:layout_width="350dp"
+            android:layout_height="85dp"
+            android:layout_weight="1"
+            android:padding="5dp"
+            android:src="@drawable/a2" />
+
+        <ImageButton
+            android:id="@+id/imageButton11"
+            android:layout_width="350dp"
+            android:layout_height="85dp"
+            android:layout_weight="1"
+            android:padding="5dp"
+            android:src="@drawable/a3" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/linearLayout5"
+        android:layout_width="413dp"
+        android:layout_height="100dp"
+        android:orientation="horizontal"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/linearLayout4"
+        app:layout_constraintVertical_bias="0.0">
+
+        <ImageButton
+            android:id="@+id/imageButton12"
+            android:layout_width="350dp"
+            android:layout_height="85dp"
+            android:layout_weight="1"
+            android:src="@drawable/a4" />
+
+        <ImageButton
+            android:id="@+id/imageButton13"
+            android:layout_width="350dp"
+            android:layout_height="85dp"
+            android:layout_weight="1"
+            android:src="@drawable/a5" />
+
+        <ImageButton
+            android:id="@+id/imageButton15"
+            android:layout_width="350dp"
+            android:layout_height="85dp"
+            android:layout_weight="1"
+            android:src="@drawable/a1" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="413dp"
+        android:layout_height="100dp"
+        android:orientation="horizontal"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/linearLayout5"
+        app:layout_constraintVertical_bias="0.0">
+
+        <ImageButton
+            android:id="@+id/imageButton20"
+            android:layout_width="350dp"
+            android:layout_height="85dp"
+            android:layout_weight="1"
+            android:src="@drawable/a2" />
+
+        <ImageButton
+            android:id="@+id/imageButton21"
+            android:layout_width="350dp"
+            android:layout_height="85dp"
+            android:layout_weight="1"
+            android:src="@drawable/a4" />
+
+        <ImageButton
+            android:id="@+id/imageButton22"
+            android:layout_width="350dp"
+            android:layout_height="85dp"
+            android:layout_weight="1"
+            android:src="@drawable/a3" />
+    </LinearLayout>
+
 
     <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
         xmlns:app="http://schemas.android.com/apk/res-auto"
