@@ -20,6 +20,20 @@
     <string name="invalid_password">La constraseña debe tener más de 5 caracteres</string>
     <string name="login_failed">"El ingreso falló"</string>
     <string name="aqu_va_el_logo">Aquí va el logo</string>
+<<<<<<< HEAD
     <string name="prompt_email">Email</string>
     <string name="prompt_password">Contraseña</string>
+=======
+    <string name="title_activity_pqr">pqr</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="prompt_password">Contraseña</string>
+    <string name="prompt_email">Email</string>
+>>>>>>> a287c2b8f9a7720cbbd7631154ff55e4bff76f07
 </resources>

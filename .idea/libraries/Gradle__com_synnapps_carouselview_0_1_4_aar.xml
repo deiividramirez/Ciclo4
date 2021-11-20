@@ -1,6 +1,14 @@
 <component name="libraryTable">
   <library name="Gradle: com.synnapps:carouselview:0.1.4@aar">
     <ANNOTATIONS>
+<<<<<<< HEAD
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/105c880bd113833ecd0f553ec1000d53/transformed/jetified-carouselview-0.1.4/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/105c880bd113833ecd0f553ec1000d53/transformed/jetified-carouselview-0.1.4/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/105c880bd113833ecd0f553ec1000d53/transformed/jetified-carouselview-0.1.4/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/105c880bd113833ecd0f553ec1000d53/transformed/jetified-carouselview-0.1.4/AndroidManifest.xml" />
+=======
       <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/3e45df5a9ce3b101130b9446efaff338/transformed/jetified-carouselview-0.1.4/annotations.zip!/" />
       <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/31b217620e4f8cc304db2fae1a9a55af/transformed/jetified-carouselview-0.1.4/annotations.zip!/" />
     </ANNOTATIONS>
@@ -11,6 +19,7 @@
       <root url="file://$USER_HOME$/.gradle/caches/transforms-3/31b217620e4f8cc304db2fae1a9a55af/transformed/jetified-carouselview-0.1.4/AndroidManifest.xml" />
       <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/31b217620e4f8cc304db2fae1a9a55af/transformed/jetified-carouselview-0.1.4/jars/classes.jar!/" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-3/31b217620e4f8cc304db2fae1a9a55af/transformed/jetified-carouselview-0.1.4/res" />
+>>>>>>> a76ebc5b80947ce97cf0f30b47c0c716c34972a3
     </CLASSES>
     <JAVADOC>
       <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.synnapps/carouselview/0.1.4/95205bf40e45bc9a60d8cee862c2efd06fe9498a/carouselview-0.1.4-javadoc.jar!/" />
