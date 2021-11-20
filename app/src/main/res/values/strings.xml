@@ -20,4 +20,6 @@
     <string name="invalid_password">La constraseña debe tener más de 5 caracteres</string>
     <string name="login_failed">"El ingreso falló"</string>
     <string name="aqu_va_el_logo">Aquí va el logo</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Contraseña</string>
 </resources>

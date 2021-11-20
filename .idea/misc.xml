@@ -4,11 +4,15 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Programacion/Ciclo 4 Android/Ciclo4/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.22447916666666667" />
+        <entry key="..\:/Programacion/Ciclo 4 Android/Ciclo4/app/src/main/res/drawable/border.xml" value="0.1841880341880342" />
         <entry key="..\:/Programacion/Ciclo 4 Android/Ciclo4/app/src/main/res/drawable/ic_launcher_background.xml" value="0.22447916666666667" />
         <entry key="..\:/Programacion/Ciclo 4 Android/Ciclo4/app/src/main/res/drawable/ic_menu_camera.xml" value="0.22447916666666667" />
         <entry key="..\:/Programacion/Ciclo 4 Android/Ciclo4/app/src/main/res/drawable/ic_menu_gallery.xml" value="0.22447916666666667" />
         <entry key="..\:/Programacion/Ciclo 4 Android/Ciclo4/app/src/main/res/drawable/ic_menu_slideshow.xml" value="0.22447916666666667" />
         <entry key="..\:/Programacion/Ciclo 4 Android/Ciclo4/app/src/main/res/drawable/side_nav_bar.xml" value="0.22447916666666667" />
+        <entry key="..\:/Programacion/Ciclo 4 Android/Ciclo4/app/src/main/res/layout-w1240dp/activity_login.xml" value="0.13386880856760375" />
+        <entry key="..\:/Programacion/Ciclo 4 Android/Ciclo4/app/src/main/res/layout-w936dp/activity_login.xml" value="0.15625" />
+        <entry key="..\:/Programacion/Ciclo 4 Android/Ciclo4/app/src/main/res/layout/activity_login.xml" value="0.17094017094017094" />
         <entry key="..\:/Programacion/Ciclo 4 Android/Ciclo4/app/src/main/res/layout/fragment_home.xml" value="0.25" />
         <entry key="..\:/Users/dalra/OneDrive/Documentos/Programacion/MisionTIC2022/Ciclo 4 (Grupo 03)/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.21614583333333334" />
         <entry key="..\:/Users/dalra/OneDrive/Documentos/Programacion/MisionTIC2022/Ciclo 4 (Grupo 03)/app/src/main/res/drawable/ic_launcher_background.xml" value="0.21614583333333334" />
