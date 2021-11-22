@@ -40,5 +40,14 @@
     <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
     <string name="prompt_password">Contraseña</string>
     <string name="prompt_email">Email</string>
->>>>>>> 686d9a452fd3d62011f9cd62ffa113771d05aa7c
+    <string name="carpenter_text">Se trata de una profesión que está encargada de ejecutar instalaciones y reparaciones referentes a la electricidad. Sobre todo cuando se refiere a los equipos y la iluminación. Además, se encarga de ensamblar, probar y determinar los diversos fallos que se pueden presentar en un cableado</string>
+    <string name="cworker_text">Se trata de una profesión que está encargada de ejecutar instalaciones y reparaciones referentes a la electricidad. Sobre todo cuando se refiere a los equipos y la iluminación. Además, se encarga de ensamblar, probar y determinar los diversos fallos que se pueden presentar en un cableado</string>
+    <string name="cleaner_text">Se trata de una profesión que está encargada de ejecutar instalaciones y reparaciones referentes a la electricidad. Sobre todo cuando se refiere a los equipos y la iluminación. Además, se encarga de ensamblar, probar y determinar los diversos fallos que se pueden presentar en un cableado</string>
+    <string name="moving_text">Se trata de una profesión que está encargada de ejecutar instalaciones y reparaciones referentes a la electricidad. Sobre todo cuando se refiere a los equipos y la iluminación. Además, se encarga de ensamblar, probar y determinar los diversos fallos que se pueden presentar en un cableado</string>
+    <string name="paint_text">Se trata de una profesión que está encargada de ejecutar instalaciones y reparaciones referentes a la electricidad. Sobre todo cuando se refiere a los equipos y la iluminación. Además, se encarga de ensamblar, probar y determinar los diversos fallos que se pueden presentar en un cableado</string>
+    <string name="plumb_text">Se trata de una profesión que está encargada de ejecutar instalaciones y reparaciones referentes a la electricidad. Sobre todo cuando se refiere a los equipos y la iluminación. Además, se encarga de ensamblar, probar y determinar los diversos fallos que se pueden presentar en un cableado</string>
+    <string name="tenic_text">Se trata de una profesión que está encargada de ejecutar instalaciones y reparaciones referentes a la electricidad. Sobre todo cuando se refiere a los equipos y la iluminación. Además, se encarga de ensamblar, probar y determinar los diversos fallos que se pueden presentar en un cableado</string>
+    <string name="another_services">Otros servicios</string>
+    <string name="electric_text">Se trata de una profesión que está encargada de ejecutar instalaciones y reparaciones referentes a la electricidad. Sobre todo cuando se refiere a los equipos y la iluminación. Además, se encarga de ensamblar, probar y determinar los diversos fallos que se pueden presentar en un cableado</string>
+    >>>>>>> 686d9a452fd3d62011f9cd62ffa113771d05aa7c
 </resources>

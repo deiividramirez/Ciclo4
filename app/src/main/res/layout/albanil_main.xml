@@ -24,7 +24,7 @@
             android:textSize="16sp"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Se trata de una profesión que está encargada de ejecutar instalaciones y reparaciones referentes a la electricidad. Sobre todo cuando se refiere a los equipos y la iluminación. Además, se encarga de ensamblar, probar y determinar los diversos fallos que se pueden presentar en un cableado" />
+            android:text="@string/cworker_text" />
     </ScrollView>
 
     <ImageView

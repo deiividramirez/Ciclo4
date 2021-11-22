@@ -23,7 +23,7 @@
             android:textSize="16sp"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Se trata de una profesión que está encargada de ejecutar instalaciones y reparaciones referentes a la electricidad. Sobre todo cuando se refiere a los equipos y la iluminación. Además, se encarga de ensamblar, probar y determinar los diversos fallos que se pueden presentar en un cableado" />
+            android:text="@string/plumb_text" />
     </ScrollView>
 
     <ImageView
@@ -40,8 +40,8 @@
 
     <EditText
         android:id="@+id/editTextTextPersonName"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
+        android:layout_width="257dp"
+        android:layout_height="65dp"
         android:ems="10"
         android:inputType="textPersonName"
         android:text="@string/que_necesita"
@@ -53,8 +53,8 @@
 
     <EditText
         android:id="@+id/editTextTextPersonName3"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
+        android:layout_width="263dp"
+        android:layout_height="59dp"
         android:ems="10"
         android:inputType="textPersonName"
         android:text="@string/fecha_de_servivio"
@@ -67,8 +67,8 @@
 
     <EditText
         android:id="@+id/editTextTextPersonName4"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
+        android:layout_width="256dp"
+        android:layout_height="51dp"
         android:ems="10"
         android:inputType="textPersonName"
         android:text="@string/observaciones"
@@ -81,8 +81,8 @@
 
     <Button
         android:id="@+id/button2"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
+        android:layout_width="209dp"
+        android:layout_height="51dp"
         android:text="@string/confirmar_servicio"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
@@ -90,7 +90,17 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.729" />
-
+    <Button
+        android:id="@+id/button"
+        android:layout_width="134dp"
+        android:layout_height="58dp"
+        android:layout_marginBottom="16dp"
+        android:text="@string/another_services"
+        android:textColor="#212121"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.934"
+        app:layout_constraintStart_toStartOf="parent" />
 </androidx.constraintlayout.widget.ConstraintLayout>
 
 
