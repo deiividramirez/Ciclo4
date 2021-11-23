@@ -13,29 +13,28 @@
 
     <EditText
         android:id="@+id/etUserName"
-        android:layout_width="329dp"
-        android:layout_height="58dp"
-        android:layout_marginTop="188dp"
+        android:layout_width="326dp"
+        android:layout_height="62dp"
+        android:layout_marginTop="248dp"
         android:hint="@string/et_email"
         android:inputType="textEmailAddress"
         android:selectAllOnFocus="true"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.524"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
-    <EditText
-        android:id="@+id/etPassword"
-        android:layout_width="326dp"
-        android:layout_height="51dp"
-        android:layout_marginTop="22dp"
-        android:hint="@string/et_password"
-        android:imeActionLabel="@string/action_sign_in_short"
-        android:imeOptions="actionDone"
-        android:inputType="textPassword"
-        android:selectAllOnFocus="true"
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="161dp"
+        android:layout_height="171dp"
+        app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/etUserName" />
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.103"
+        app:srcCompat="@drawable/logo_512"
+        android:contentDescription="TODO" />
 
     <Button
         android:id="@+id/btnlogin"
@@ -46,14 +45,32 @@
         android:layout_marginBottom="184dp"
         android:backgroundTint="@color/cobrizo"
         android:enabled="false"
+        android:onClick="goToMain"
         android:text="@string/action_sign_in"
         android:textColor="@color/black"
-        android:onClick="goToMain"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.51"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/etPassword"
         app:layout_constraintVertical_bias="0.0" />
+
+    <EditText
+        android:id="@+id/etPassword"
+        android:layout_width="324dp"
+        android:layout_height="57dp"
+        android:layout_marginTop="4dp"
+        android:hint="@string/et_password"
+        android:hintTextColor="#757575"
+        android:imeActionLabel="@string/action_sign_in_short"
+        android:imeOptions="actionDone"
+        android:inputType="textPassword"
+        android:selectAllOnFocus="true"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.529"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/etUserName"
+        tools:ignore="TextContrastCheck,TextContrastCheck" />
 
     <ProgressBar
         android:id="@+id/pbloading"
@@ -68,16 +85,5 @@
         app:layout_constraintStart_toStartOf="@+id/etPassword"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.3" />
-
-    <TextView
-        android:id="@+id/textView2"
-        android:layout_width="146dp"
-        android:layout_height="73dp"
-        android:text="@string/aqu_va_el_logo"
-        android:textSize="30sp"
-        app:layout_constraintBottom_toTopOf="@+id/etUserName"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
