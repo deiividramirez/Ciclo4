@@ -10,35 +10,33 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.JobNet">
         <activity
-            android:name=".ui.MudanzaActivity"
+            android:name="MudanzaActivity"
             android:exported="false" />
         <activity
-            android:name=".ui.PinturaActivity"
+            android:name=".PinturaActivity"
             android:exported="false" />
         <activity
-            android:name=".ui.LimpiezaActivity"
+            android:name=".LimpiezaActivity"
             android:exported="false" />
         <activity
-            android:name=".ui.SoldaduraActivity"
+            android:name=".SoldaduraActivity"
             android:exported="false" />
         <activity
-            android:name=".ui.CarpenterActivity"
+            android:name=".CarpenterActivity"
             android:exported="false" />
         <activity
-            android:name=".ui.AlbanilActivity"
+            android:name=".AlbanilActivity"
             android:exported="false" />
         <activity
-            android:name=".ui.TecnicoActivity"
+            android:name=".TecnicoActivity"
             android:exported="false" />
         <activity
-            android:name=".ui.ElectricoActivity"
+            android:name=".ElectricoActivity"
             android:exported="false" />
         <activity
             android:name=".PlumberActivity"
             android:exported="false" />
-        <activity
-            android:name=".ui.service.ServiceActivity"
-            android:exported="false" />
+
         <activity
             android:name=".pqr"
             android:exported="false"

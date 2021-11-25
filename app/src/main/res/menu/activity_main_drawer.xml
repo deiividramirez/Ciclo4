@@ -16,5 +16,9 @@
             android:id="@+id/nav_slideshow"
             android:icon="@drawable/ic_menu_slideshow"
             android:title="@string/menu_slideshow" />
+        <item
+            android:id="@+id/nav_pqr"
+            android:icon="@android:drawable/sym_action_email"
+            android:title="PQR" />
     </group>
 </menu>
