@@ -30,7 +30,7 @@
         android:layout_height="57dp"
         android:layout_marginTop="4dp"
         android:hint="@string/et_password"
-        android:hintTextColor="#757575"
+
         android:imeActionLabel="@string/action_sign_in_short"
         android:imeOptions="actionDone"
         android:inputType="textPassword"
