@@ -13,7 +13,10 @@ import android.widget.Toast;
 public class LoginActivity extends AppCompatActivity implements View.OnClickListener{
     EditText user, pass;
     Button Btn_login, Btn_registrar ;
+<<<<<<< HEAD
     daoUsuario dao;
+=======
+>>>>>>> 98f04fca95d3c44ea77e111b51df8db521614e79
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -25,7 +28,11 @@ public class LoginActivity extends AppCompatActivity implements View.OnClickList
         Btn_registrar=(Button)findViewById(R.id.btnregister);
         Btn_login.setOnClickListener(this);
         Btn_registrar.setOnClickListener(this);
+<<<<<<< HEAD
         dao = new daoUsuario(this);
+=======
+        daoUsuario dao = new daoUsuario(this);
+>>>>>>> 98f04fca95d3c44ea77e111b51df8db521614e79
 
     }
 
