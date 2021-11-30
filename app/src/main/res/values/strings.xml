@@ -23,7 +23,7 @@
     <string name="title_activity_login">LoginActivity</string>
     <string name="et_email">E-mail</string>
     <string name="et_password">Contraseña</string>
-    <string name="action_sign_in">Ingresa o registrate</string>
+    <string name="action_sign_in">Ingresar</string>
     <string name="action_sign_in_short">Ingresar</string>
     <string name="welcome">"¡Bienvenido!"</string>
     <string name="invalid_username">Nombre de usuario inválido</string>
@@ -52,5 +52,11 @@
     <string name="another_services">Otros servicios</string>
     <string name="electric_text">Se trata de una profesión que está encargada de ejecutar instalaciones y reparaciones referentes a la electricidad. Sobre todo cuando se refiere a los equipos y la iluminación. Además, se encarga de ensamblar, probar y determinar los diversos fallos que se pueden presentar en un cableado</string>
     <string name="todo">TODO</string>
+    <string name="All">TODO</string>
+    <string name="cancel">Cancelar</string>
+    <string name="register">Registrar</string>
+    <string name="name">Nombre</string>
+    <string name="create_new_account">Crear una nueva cuenta</string>
+    <string name="apellido">Apellido</string>
 
 </resources>

@@ -9,71 +9,53 @@
     android:paddingTop="@dimen/activity_vertical_margin"
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingBottom="@dimen/activity_vertical_margin"
-    tools:context=".ui.login.LoginActivity">
-
-    <EditText
-        android:id="@+id/etUserName"
-        android:layout_width="326dp"
-        android:layout_height="62dp"
-        android:layout_marginTop="172dp"
-        android:hint="@string/et_email"
-        android:inputType="textEmailAddress"
-        android:selectAllOnFocus="true"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.52"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
+    tools:context=".LoginActivity">
 
     <EditText
         android:id="@+id/etPassword"
-        android:layout_width="324dp"
-        android:layout_height="57dp"
-        android:layout_marginTop="4dp"
+        android:layout_width="260dp"
+        android:layout_height="60dp"
+        android:layout_marginTop="24dp"
         android:hint="@string/et_password"
-
         android:imeActionLabel="@string/action_sign_in_short"
         android:imeOptions="actionDone"
         android:inputType="textPassword"
         android:selectAllOnFocus="true"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.525"
+        app:layout_constraintHorizontal_bias="0.496"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/etUserName"
         tools:ignore="TextContrastCheck,TextContrastCheck" />
 
-    <ImageView
-        android:id="@+id/imageView2"
-        android:layout_width="161dp"
-        android:layout_height="171dp"
-        android:contentDescription="TODO"
+    <EditText
+        android:id="@+id/etUserName"
+        android:layout_width="263dp"
+        android:layout_height="58dp"
+        android:hint="@string/et_email"
+        android:inputType="textEmailAddress"
+        android:selectAllOnFocus="true"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.501"
+        app:layout_constraintHorizontal_bias="0.506"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.0"
-        app:srcCompat="@drawable/logo_512" />
+        app:layout_constraintVertical_bias="0.408" />
 
-    <Button
-        android:id="@+id/btnlogin"
-        android:layout_width="215dp"
-        android:layout_height="62dp"
-        android:layout_gravity="start"
-        android:layout_marginTop="16dp"
-        android:backgroundTint="@color/cobrizo"
-        android:enabled="false"
-        android:onClick="goToMain"
-        android:text="@string/action_sign_in"
-        android:textColor="@color/black"
+    <ImageView
+        android:id="@+id/icon_login"
+        android:layout_width="182dp"
+        android:layout_height="152dp"
+        android:contentDescription="@string/All"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.951" />
+        app:layout_constraintVertical_bias="0.118"
+        app:srcCompat="@drawable/logo_512" />
 
     <ProgressBar
         android:id="@+id/pbloading"
-        android:layout_width="wrap_content"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_gravity="center"
         android:layout_marginTop="64dp"
@@ -84,5 +66,52 @@
         app:layout_constraintStart_toStartOf="@+id/etPassword"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.3" />
+
+    <Button
+        android:id="@+id/btncancel"
+        android:layout_width="195dp"
+        android:layout_height="49dp"
+        android:backgroundTint="#E8E8B3"
+        android:text="@string/cancel"
+        android:textColor="@color/black"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.532"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.807" />
+
+    <Button
+        android:id="@+id/btnlogin"
+        android:layout_width="144dp"
+        android:layout_height="54dp"
+        android:layout_gravity="start"
+        android:layout_marginTop="16dp"
+        android:backgroundTint="@color/cobrizo"
+        android:enabled="false"
+        android:onClick="goToMain"
+        android:text="@string/action_sign_in"
+        android:textColor="@color/black"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.146"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.673"
+        tools:ignore="OnClick" />
+
+    <Button
+        android:id="@+id/btnregister"
+        android:layout_width="133dp"
+        android:layout_height="57dp"
+        android:text="@string/register"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.831"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.685"
+        android:backgroundTint="@color/naranja"
+        android:textColor="@color/black"/>
 
 </androidx.constraintlayout.widget.ConstraintLayout>
