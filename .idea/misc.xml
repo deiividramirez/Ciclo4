@@ -3,55 +3,30 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Programacion/Ciclo 4 Android/Ciclo4/app/src/main/res/layout-w1240dp/activity_login.xml" value="0.13386880856760375" />
-        <entry key="..\:/Programacion/Ciclo 4 Android/Ciclo4/app/src/main/res/layout-w936dp/activity_login.xml" value="0.1" />
-        <entry key="..\:/Programacion/Ciclo 4 Android/Ciclo4/app/src/main/res/layout/activity_albanil.xml" value="0.20833333333333334" />
-        <entry key="..\:/Programacion/Ciclo 4 Android/Ciclo4/app/src/main/res/layout/activity_carpenter.xml" value="0.20833333333333334" />
-        <entry key="..\:/Programacion/Ciclo 4 Android/Ciclo4/app/src/main/res/layout/activity_electrico.xml" value="0.19427083333333334" />
-        <entry key="..\:/Programacion/Ciclo 4 Android/Ciclo4/app/src/main/res/layout/activity_limpieza.xml" value="0.20833333333333334" />
-        <entry key="..\:/Programacion/Ciclo 4 Android/Ciclo4/app/src/main/res/layout/activity_login.xml" value="0.1" />
-        <entry key="..\:/Programacion/Ciclo 4 Android/Ciclo4/app/src/main/res/layout/activity_main.xml" value="0.25" />
-        <entry key="..\:/Programacion/Ciclo 4 Android/Ciclo4/app/src/main/res/layout/activity_mudanza.xml" value="0.20833333333333334" />
-        <entry key="..\:/Programacion/Ciclo 4 Android/Ciclo4/app/src/main/res/layout/activity_pintura.xml" value="0.20833333333333334" />
-        <entry key="..\:/Programacion/Ciclo 4 Android/Ciclo4/app/src/main/res/layout/activity_plumber.xml" value="0.20833333333333334" />
-        <entry key="..\:/Programacion/Ciclo 4 Android/Ciclo4/app/src/main/res/layout/activity_service.xml" value="0.20833333333333334" />
-        <entry key="..\:/Programacion/Ciclo 4 Android/Ciclo4/app/src/main/res/layout/activity_soldadura.xml" value="0.20833333333333334" />
-        <entry key="..\:/Programacion/Ciclo 4 Android/Ciclo4/app/src/main/res/layout/activity_tecnico.xml" value="0.20833333333333334" />
-        <entry key="..\:/Programacion/Ciclo 4 Android/Ciclo4/app/src/main/res/layout/albanil_main.xml" value="0.20833333333333334" />
-        <entry key="..\:/Programacion/Ciclo 4 Android/Ciclo4/app/src/main/res/layout/app_bar_main.xml" value="0.20833333333333334" />
-        <entry key="..\:/Programacion/Ciclo 4 Android/Ciclo4/app/src/main/res/layout/carpinteria_main.xml" value="0.20833333333333334" />
-        <entry key="..\:/Programacion/Ciclo 4 Android/Ciclo4/app/src/main/res/layout/content_main.xml" value="0.16530797101449277" />
-        <entry key="..\:/Programacion/Ciclo 4 Android/Ciclo4/app/src/main/res/layout/content_pqr.xml" value="0.20833333333333334" />
-        <entry key="..\:/Programacion/Ciclo 4 Android/Ciclo4/app/src/main/res/layout/electricidad_main.xml" value="0.20833333333333334" />
-        <entry key="..\:/Programacion/Ciclo 4 Android/Ciclo4/app/src/main/res/layout/fragment_first.xml" value="0.20833333333333334" />
-        <entry key="..\:/Programacion/Ciclo 4 Android/Ciclo4/app/src/main/res/layout/fragment_gallery.xml" value="0.20833333333333334" />
-        <entry key="..\:/Programacion/Ciclo 4 Android/Ciclo4/app/src/main/res/layout/fragment_home.xml" value="0.25" />
-        <entry key="..\:/Programacion/Ciclo 4 Android/Ciclo4/app/src/main/res/layout/fragment_second.xml" value="0.20833333333333334" />
-        <entry key="..\:/Programacion/Ciclo 4 Android/Ciclo4/app/src/main/res/layout/fragment_slideshow.xml" value="0.20833333333333334" />
-        <entry key="..\:/Programacion/Ciclo 4 Android/Ciclo4/app/src/main/res/layout/limpieza_main.xml" value="0.20833333333333334" />
-        <entry key="..\:/Programacion/Ciclo 4 Android/Ciclo4/app/src/main/res/layout/mudanza_main.xml" value="0.20833333333333334" />
-        <entry key="..\:/Programacion/Ciclo 4 Android/Ciclo4/app/src/main/res/layout/nav_header_main.xml" value="0.20833333333333334" />
-        <entry key="..\:/Programacion/Ciclo 4 Android/Ciclo4/app/src/main/res/layout/pintura_main.xml" value="0.20833333333333334" />
-        <entry key="..\:/Programacion/Ciclo 4 Android/Ciclo4/app/src/main/res/layout/plomeria_main.xml" value="0.20833333333333334" />
-        <entry key="..\:/Programacion/Ciclo 4 Android/Ciclo4/app/src/main/res/layout/soldador_main.xml" value="0.20833333333333334" />
-        <entry key="..\:/Programacion/Ciclo 4 Android/Ciclo4/app/src/main/res/menu/activity_main_drawer.xml" value="0.25" />
         <entry key="..\:/Users/dalra/OneDrive/Documentos/Programacion/MisionTIC2022/Ciclo 4 (Grupo 03)/app/src/main/res/drawable/ic_launcher_background.xml" value="0.21614583333333334" />
         <entry key="..\:/Users/dalra/OneDrive/Documentos/Programacion/MisionTIC2022/Ciclo 4 (Grupo 03)/app/src/main/res/layout/activity_main.xml" value="0.2" />
         <entry key="..\:/Users/dalra/OneDrive/Documentos/Programacion/MisionTIC2022/Ciclo 4 (Grupo 03)/app/src/main/res/layout/albanil_main.xml" value="0.14" />
         <entry key="..\:/Users/dalra/OneDrive/Documentos/Programacion/MisionTIC2022/Ciclo 4 (Grupo 03)/app/src/main/res/layout/content_pqr.xml" value="0.25" />
         <entry key="..\:/Users/dalra/OneDrive/Documentos/Programacion/MisionTIC2022/Ciclo 4 (Grupo 03)/app/src/main/res/layout/plomeria_main.xml" value="0.1" />
         <entry key="..\:/Users/paula/Documents/Documentos/PROGRAMACION/Ciclo4/app/src/main/res/layout-w1240dp/activity_login.xml" value="0.1" />
-        <entry key="..\:/Users/paula/Documents/Documentos/PROGRAMACION/Ciclo4/app/src/main/res/layout-w936dp/activity_login.xml" value="0.15095628415300547" />
-        <entry key="..\:/Users/paula/Documents/Documentos/PROGRAMACION/Ciclo4/app/src/main/res/layout/activity_login.xml" value="0.22" />
+        <entry key="..\:/Users/paula/Documents/Documentos/PROGRAMACION/Ciclo4/app/src/main/res/layout-w936dp/activity_login.xml" value="0.22" />
+        <entry key="..\:/Users/paula/Documents/Documentos/PROGRAMACION/Ciclo4/app/src/main/res/layout/activity_login.xml" value="0.25" />
         <entry key="..\:/Users/paula/Documents/Documentos/PROGRAMACION/Ciclo4/app/src/main/res/layout/activity_main.xml" value="0.33" />
         <entry key="..\:/Users/paula/Documents/Documentos/PROGRAMACION/Ciclo4/app/src/main/res/layout/activity_pqr.xml" value="0.20018115942028986" />
+        <entry key="..\:/Users/paula/Documents/Documentos/PROGRAMACION/Ciclo4/app/src/main/res/layout/activity_register.xml" value="0.19010416666666666" />
         <entry key="..\:/Users/paula/Documents/Documentos/PROGRAMACION/Ciclo4/app/src/main/res/layout/albanil_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/paula/Documents/Documentos/PROGRAMACION/Ciclo4/app/src/main/res/layout/app_bar_main.xml" value="0.1" />
         <entry key="..\:/Users/paula/Documents/Documentos/PROGRAMACION/Ciclo4/app/src/main/res/layout/carpinteria_main.xml" value="0.33" />
         <entry key="..\:/Users/paula/Documents/Documentos/PROGRAMACION/Ciclo4/app/src/main/res/layout/content_main.xml" value="0.33" />
+        <entry key="..\:/Users/paula/Documents/Documentos/PROGRAMACION/Ciclo4/app/src/main/res/layout/content_pqr.xml" value="0.17300724637681159" />
         <entry key="..\:/Users/paula/Documents/Documentos/PROGRAMACION/Ciclo4/app/src/main/res/layout/electricidad_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/paula/Documents/Documentos/PROGRAMACION/Ciclo4/app/src/main/res/layout/fragment_first.xml" value="0.17300724637681159" />
+        <entry key="..\:/Users/paula/Documents/Documentos/PROGRAMACION/Ciclo4/app/src/main/res/layout/fragment_gallery.xml" value="0.17300724637681159" />
         <entry key="..\:/Users/paula/Documents/Documentos/PROGRAMACION/Ciclo4/app/src/main/res/layout/fragment_home.xml" value="0.11639492753623189" />
+        <entry key="..\:/Users/paula/Documents/Documentos/PROGRAMACION/Ciclo4/app/src/main/res/layout/fragment_slideshow.xml" value="0.17300724637681159" />
         <entry key="..\:/Users/paula/Documents/Documentos/PROGRAMACION/Ciclo4/app/src/main/res/layout/limpieza_main.xml" value="0.20416666666666666" />
         <entry key="..\:/Users/paula/Documents/Documentos/PROGRAMACION/Ciclo4/app/src/main/res/layout/mudanza_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/paula/Documents/Documentos/PROGRAMACION/Ciclo4/app/src/main/res/layout/nav_header_main.xml" value="0.17300724637681159" />
         <entry key="..\:/Users/paula/Documents/Documentos/PROGRAMACION/Ciclo4/app/src/main/res/layout/pintura_main.xml" value="0.20416666666666666" />
         <entry key="..\:/Users/paula/Documents/Documentos/PROGRAMACION/Ciclo4/app/src/main/res/layout/plomeria_main.xml" value="0.20416666666666666" />
         <entry key="..\:/Users/paula/Documents/Documentos/PROGRAMACION/Ciclo4/app/src/main/res/layout/soldador_main.xml" value="0.20416666666666666" />
@@ -60,5 +35,5 @@
     </option>
   </component>
   <component name="ExternalStorageConfigurationManager" enabled="true" />
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_15" project-jdk-name="16" project-jdk-type="JavaSDK" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_X" default="true" project-jdk-name="16" project-jdk-type="JavaSDK" />
 </project>

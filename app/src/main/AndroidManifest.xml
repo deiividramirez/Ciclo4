@@ -10,7 +10,13 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.JobNet">
         <activity
-            android:name="MudanzaActivity"
+            android:name=".RegisterActivity"
+            android:exported="false" />
+        <activity
+            android:name=".LoginActivity"
+            android:exported="false" />
+        <activity
+            android:name=".MudanzaActivity"
             android:exported="false" />
         <activity
             android:name=".PinturaActivity"
@@ -36,7 +42,6 @@
         <activity
             android:name=".PlumberActivity"
             android:exported="false" />
-
         <activity
             android:name=".pqr"
             android:exported="false"
