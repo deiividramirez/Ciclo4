@@ -4,105 +4,85 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="#96FA9A">
+    tools:context=".TecnicoActivity">
 
 
-    <ScrollView
-        android:id="@+id/scrollView3"
-        android:layout_width="197dp"
-        android:layout_height="102dp"
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="170sp"
+        android:layout_height="250sp"
+        android:text="@string/descripcion_oficio"
+        android:textStyle="italic"
+        android:gravity="center"
+        android:textSize="22sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.149"
+        app:layout_constraintHorizontal_bias="0.113"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.066">
-
-        <TextView
-            android:id="@+id/textView2"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:text="@string/tenic_text"
-            android:textSize="16sp" />
-    </ScrollView>
+        app:layout_constraintVertical_bias="0.102" />
 
     <ImageView
-        android:id="@+id/imageView5"
-        android:layout_width="150dp"
-        android:layout_height="202dp"
+        android:id="@+id/imageView"
+        android:layout_width="179dp"
+        android:layout_height="254dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.938"
-        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintHorizontal_bias="0.542"
+        app:layout_constraintStart_toEndOf="@+id/textView"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.079"
-        app:srcCompat="@drawable/iconotecnico"
-        android:contentDescription="@string/todo" />
+        app:layout_constraintVertical_bias="0.091"
+        app:srcCompat="@drawable/iconotecnico" />
 
-    <EditText
-        android:id="@+id/editTextTextPersonName"
-        android:layout_width="240dp"
-        android:layout_height="61dp"
-        android:ems="10"
-        android:inputType="textPersonName"
+    <TextView
+        android:id="@+id/tvqNecesita"
+        android:layout_width="250dp"
+        android:layout_height="50dp"
         android:text="@string/que_necesita"
+        android:textSize="25sp"
+        android:gravity="center"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.422" />
+        app:layout_constraintVertical_bias="0.568" />
 
-    <EditText
-        android:id="@+id/editTextTextPersonName3"
-        android:layout_width="248dp"
-        android:layout_height="51dp"
-        android:ems="10"
-        android:inputType="textPersonName"
-        android:text="@string/fecha_de_servivio"
+    <TextView
+        android:id="@+id/tvfServicio"
+        android:layout_width="250dp"
+        android:layout_height="50dp"
+        android:gravity="center"
+        android:text="@string/fecha_de_servicio"
+        android:textSize="25sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.502"
+        app:layout_constraintHorizontal_bias="0.496"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.535"
-        android:autofillHints="" />
+        app:layout_constraintTop_toBottomOf="@+id/tvqNecesita"
+        app:layout_constraintVertical_bias="0.105" />
 
-    <EditText
-        android:id="@+id/editTextTextPersonName4"
-        android:layout_width="256dp"
-        android:layout_height="51dp"
-        android:ems="10"
-        android:inputType="textPersonName"
+    <TextView
+        android:id="@+id/tvObservaciones"
+        android:layout_width="250dp"
+        android:layout_height="50dp"
+        android:gravity="center"
         android:text="@string/observaciones"
+        android:textSize="25sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.502"
+        app:layout_constraintHorizontal_bias="0.503"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.646" />
+        app:layout_constraintTop_toBottomOf="@+id/tvfServicio"
+        app:layout_constraintVertical_bias="0.138" />
 
     <Button
-        android:id="@+id/button2"
-        android:layout_width="205dp"
-        android:layout_height="52dp"
+        android:id="@+id/btConfirmarServicio"
+        android:layout_width="250dp"
+        android:layout_height="50dp"
         android:text="@string/confirmar_servicio"
-        android:textColor="#212121"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.476"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.729" />
+        app:layout_constraintTop_toBottomOf="@+id/tvObservaciones" />
 
-    <Button
-        android:id="@+id/button"
-        android:layout_width="134dp"
-        android:layout_height="58dp"
-        android:layout_marginBottom="16dp"
-        android:text="@string/another_services"
-        android:textColor="#212121"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.934"
-        app:layout_constraintStart_toStartOf="parent" />
 </androidx.constraintlayout.widget.ConstraintLayout>

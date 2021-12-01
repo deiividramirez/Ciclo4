@@ -1,62 +1,37 @@
 <resources>
     <string name="app_name">JobNet</string>
-    <string name="navigation_drawer_open">Abrir menú</string>
-    <string name="navigation_drawer_close">Cerrar menú</string>
-    <string name="nav_header_title">Temp</string>
-    <string name="nav_header_subtitle">contacto@jobnet.net</string>
-    <string name="nav_header_desc">Header</string>
-    <string name="action_settings">Configuración</string>
-
-    <string name="menu_home">Inicio</string>
-    <string name="menu_gallery">Servicios</string>
-    <string name="menu_slideshow">Login</string>
-
-
-    <string name="textosoldador">Se trata de una profesión que está encargada de ejecutar instalaciones y reparaciones referentes a la electricidad. Sobre todo cuando se refiere a los equipos y la iluminación. Además, se encarga de ensamblar, probar y determinar los diversos fallos que se pueden presentar en un cableado</string>
-    <string name="otros_servicios">Otros servicios</string>
+    <string name="tituloPrincipal">¿En que podemos servirte?</string>
+    <string name="title_login">JobNet</string>
+    <string name="hint_nameLogin">Escriba su nombre</string>
+    <string name="hint_password">Escriba su clave</string>
+    <string name="enter">iniciar sesión</string>
+    <string name="Plumber">Plomero</string>
+    <string name="electric">Electrico</string>
+    <string name="technical">Técnico</string>
+    <string name="construction_worker">Albañil</string>
+    <string name="carpenter">carpintero</string>
+    <string name="welder">soldadura</string>
+    <string name="cleaner">limpieza</string>
+    <string name="painter">pintura</string>
+    <string name="moving">mudanza</string>
+    <string name="our_services">Nuestros servicios</string>
     <string name="que_necesita">¿Que necesita?</string>
-    <string name="confirmar_servicio">Confirmar servicio</string>
+    <string name="fecha_de_servicio">Fecha de servicio</string>
     <string name="observaciones">Observaciones</string>
-    <string name="fecha_de_servivio">Fecha de servivio</string>
-
-
-    <string name="title_activity_login">LoginActivity</string>
-    <string name="et_email">E-mail</string>
-    <string name="et_password">Contraseña</string>
-    <string name="action_sign_in">Ingresar</string>
-    <string name="action_sign_in_short">Ingresar</string>
-    <string name="welcome">"¡Bienvenido!"</string>
-    <string name="invalid_username">Nombre de usuario inválido</string>
-    <string name="invalid_password">La constraseña debe tener más de 5 caracteres</string>
-    <string name="login_failed">"El ingreso falló"</string>
-    <string name="aqu_va_el_logo">Aquí va el logo</string>
-
-    <string name="title_activity_pqr">pqr</string>
-    <!-- Strings used for fragments for navigation -->
-    <string name="first_fragment_label">First Fragment</string>
-    <string name="second_fragment_label">Second Fragment</string>
-    <string name="next">Next</string>
-    <string name="previous">Previous</string>
-
-    <string name="hello_first_fragment">Hello first fragment</string>
-    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
-    <string name="prompt_password">Contraseña</string>
-    <string name="prompt_email">Email</string>
-    <string name="carpenter_text">Se trata de una profesión que está encargada de ejecutar instalaciones y reparaciones referentes a la electricidad. Sobre todo cuando se refiere a los equipos y la iluminación. Además, se encarga de ensamblar, probar y determinar los diversos fallos que se pueden presentar en un cableado</string>
-    <string name="cworker_text">Se trata de una profesión que está encargada de ejecutar instalaciones y reparaciones referentes a la electricidad. Sobre todo cuando se refiere a los equipos y la iluminación. Además, se encarga de ensamblar, probar y determinar los diversos fallos que se pueden presentar en un cableado</string>
-    <string name="cleaner_text">Se trata de una profesión que está encargada de ejecutar instalaciones y reparaciones referentes a la electricidad. Sobre todo cuando se refiere a los equipos y la iluminación. Además, se encarga de ensamblar, probar y determinar los diversos fallos que se pueden presentar en un cableado</string>
-    <string name="moving_text">Se trata de una profesión que está encargada de ejecutar instalaciones y reparaciones referentes a la electricidad. Sobre todo cuando se refiere a los equipos y la iluminación. Además, se encarga de ensamblar, probar y determinar los diversos fallos que se pueden presentar en un cableado</string>
-    <string name="paint_text">Se trata de una profesión que está encargada de ejecutar instalaciones y reparaciones referentes a la electricidad. Sobre todo cuando se refiere a los equipos y la iluminación. Además, se encarga de ensamblar, probar y determinar los diversos fallos que se pueden presentar en un cableado</string>
-    <string name="plumb_text">Se trata de una profesión que está encargada de ejecutar instalaciones y reparaciones referentes a la electricidad. Sobre todo cuando se refiere a los equipos y la iluminación. Además, se encarga de ensamblar, probar y determinar los diversos fallos que se pueden presentar en un cableado</string>
-    <string name="tenic_text">Se trata de una profesión que está encargada de ejecutar instalaciones y reparaciones referentes a la electricidad. Sobre todo cuando se refiere a los equipos y la iluminación. Además, se encarga de ensamblar, probar y determinar los diversos fallos que se pueden presentar en un cableado</string>
-    <string name="another_services">Otros servicios</string>
-    <string name="electric_text">Se trata de una profesión que está encargada de ejecutar instalaciones y reparaciones referentes a la electricidad. Sobre todo cuando se refiere a los equipos y la iluminación. Además, se encarga de ensamblar, probar y determinar los diversos fallos que se pueden presentar en un cableado</string>
-    <string name="todo">TODO</string>
-    <string name="All">TODO</string>
-    <string name="cancel">Cancelar</string>
-    <string name="register">Registrar</string>
-    <string name="name">Nombre</string>
-    <string name="create_new_account">Crear una nueva cuenta</string>
-    <string name="apellido">Apellido</string>
-
+    <string name="confirmar_servicio">Confirmar Servicio</string>
+    <string name="descripcion_oficio">profesión que está encargada de ejecutar instalaciones y reparaciones referentes a la electricidad.</string>
+    <string name="titulo_formulario">Formulario</string>
+    <string name="datos_personales_formulario">Datos Personales.</string>
+    <string name="name_formulario">Escriba su nombre</string>
+    <string name="name">Nombres</string>
+    <string name="apellidos">Apellidos</string>
+    <string name="hint_escriba_su_apellido">Escriba su apellido</string>
+    <string name="direccion">Dirección</string>
+    <string name="Hint_direccion">Escriba su dirección</string>
+    <string name="num_cel_formulario">Su número celular</string>
+    <string name="fecha_de_nacimiento">Fecha de nacimiento</string>
+    <string name="limpiar">Limpiar</string>
+    <string name="guardar">Guardar</string>
+    <string name="formulario">Formulario</string>
+    <string name="servicios">Servicios.</string>
 </resources>
