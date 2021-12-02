@@ -3,19 +3,11 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Programacion/Ciclo 4 Android/ProyectoJobNet/app/src/main/res/layout/activity_albanil.xml" value="0.20833333333333334" />
-        <entry key="..\:/Programacion/Ciclo 4 Android/ProyectoJobNet/app/src/main/res/layout/activity_carpintero.xml" value="0.20833333333333334" />
-        <entry key="..\:/Programacion/Ciclo 4 Android/ProyectoJobNet/app/src/main/res/layout/activity_electrico.xml" value="0.20833333333333334" />
-        <entry key="..\:/Programacion/Ciclo 4 Android/ProyectoJobNet/app/src/main/res/layout/activity_limpieza.xml" value="0.20833333333333334" />
-        <entry key="..\:/Programacion/Ciclo 4 Android/ProyectoJobNet/app/src/main/res/layout/activity_login.xml" value="0.25" />
-        <entry key="..\:/Programacion/Ciclo 4 Android/ProyectoJobNet/app/src/main/res/layout/activity_main.xml" value="0.20833333333333334" />
-        <entry key="..\:/Programacion/Ciclo 4 Android/ProyectoJobNet/app/src/main/res/layout/activity_mudanza.xml" value="0.20833333333333334" />
-        <entry key="..\:/Programacion/Ciclo 4 Android/ProyectoJobNet/app/src/main/res/layout/activity_person_form.xml" value="0.25" />
-        <entry key="..\:/Programacion/Ciclo 4 Android/ProyectoJobNet/app/src/main/res/layout/activity_pintura.xml" value="0.20833333333333334" />
-        <entry key="..\:/Programacion/Ciclo 4 Android/ProyectoJobNet/app/src/main/res/layout/activity_plomero.xml" value="0.20833333333333334" />
-        <entry key="..\:/Programacion/Ciclo 4 Android/ProyectoJobNet/app/src/main/res/layout/activity_service.xml" value="0.20833333333333334" />
-        <entry key="..\:/Programacion/Ciclo 4 Android/ProyectoJobNet/app/src/main/res/layout/activity_soldador.xml" value="0.20833333333333334" />
-        <entry key="..\:/Programacion/Ciclo 4 Android/ProyectoJobNet/app/src/main/res/layout/activity_tecnico.xml" value="0.20833333333333334" />
+        <entry key="..\:/Users/dalra/OneDrive/Documentos/Programacion/MisionTIC2022/Ciclo 4 (Grupo 03)/app/src/main/res/drawable/ic_launcher_background.xml" value="0.21614583333333334" />
+        <entry key="..\:/Users/dalra/OneDrive/Documentos/Programacion/MisionTIC2022/Ciclo 4 (Grupo 03)/app/src/main/res/layout/activity_login.xml" value="0.25" />
+        <entry key="..\:/Users/dalra/OneDrive/Documentos/Programacion/MisionTIC2022/Ciclo 4 (Grupo 03)/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/dalra/OneDrive/Documentos/Programacion/MisionTIC2022/Ciclo 4 (Grupo 03)/app/src/main/res/layout/activity_service.xml" value="0.18" />
+        <entry key="..\:/Users/dalra/OneDrive/Documentos/Programacion/MisionTIC2022/Ciclo 4 (Grupo 03)/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.10989583333333333" />
       </map>
     </option>
   </component>
